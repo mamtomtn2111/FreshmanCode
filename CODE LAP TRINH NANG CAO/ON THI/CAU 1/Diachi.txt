@@ -1,0 +1,3 @@
+
+|Ma sinh vien                  |         Ho ten|        Dia chi|        Diem TB|
+|DTC                           |   nguyenvu hai|    thai nguyen|         405.00|

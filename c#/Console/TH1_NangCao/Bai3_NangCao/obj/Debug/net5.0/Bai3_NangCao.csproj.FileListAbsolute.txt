@@ -1,0 +1,16 @@
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\bin\Debug\net5.0\Bai3_NangCao.exe
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\bin\Debug\net5.0\Bai3_NangCao.deps.json
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\bin\Debug\net5.0\Bai3_NangCao.runtimeconfig.json
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\bin\Debug\net5.0\Bai3_NangCao.runtimeconfig.dev.json
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\bin\Debug\net5.0\Bai3_NangCao.dll
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\bin\Debug\net5.0\ref\Bai3_NangCao.dll
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\bin\Debug\net5.0\Bai3_NangCao.pdb
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\obj\Debug\net5.0\Bai3_NangCao.csprojAssemblyReference.cache
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\obj\Debug\net5.0\Bai3_NangCao.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\obj\Debug\net5.0\Bai3_NangCao.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\obj\Debug\net5.0\Bai3_NangCao.AssemblyInfo.cs
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\obj\Debug\net5.0\Bai3_NangCao.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\obj\Debug\net5.0\Bai3_NangCao.dll
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\obj\Debug\net5.0\ref\Bai3_NangCao.dll
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\obj\Debug\net5.0\Bai3_NangCao.pdb
+D:\SAVE CODE\c#\TH1_NangCao\Bai3_NangCao\obj\Debug\net5.0\Bai3_NangCao.genruntimeconfig.cache

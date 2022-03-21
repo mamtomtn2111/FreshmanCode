@@ -1,0 +1,6 @@
+=====xau ban vua nhap la:======
+NGUYEN    VU   HAAAIII
+=====Xau chuyen moi chu cai dau thanh hoa la:======
+Nguyen    Vu   Haaaiii
+=====Xau xoa cach thua la:======
+Nguyen Vu Haaaiii

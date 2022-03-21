@@ -1,0 +1,16 @@
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\obj\Debug\net5.0\Bai6_CoBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\obj\Debug\net5.0\Bai6_CoBan.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\obj\Debug\net5.0\Bai6_CoBan.AssemblyInfo.cs
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\obj\Debug\net5.0\Bai6_CoBan.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\obj\Debug\net5.0\Bai6_CoBan.csprojAssemblyReference.cache
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\bin\Debug\net5.0\Bai6_CoBan.exe
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\bin\Debug\net5.0\Bai6_CoBan.deps.json
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\bin\Debug\net5.0\Bai6_CoBan.runtimeconfig.json
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\bin\Debug\net5.0\Bai6_CoBan.runtimeconfig.dev.json
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\bin\Debug\net5.0\Bai6_CoBan.dll
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\bin\Debug\net5.0\ref\Bai6_CoBan.dll
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\bin\Debug\net5.0\Bai6_CoBan.pdb
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\obj\Debug\net5.0\Bai6_CoBan.dll
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\obj\Debug\net5.0\ref\Bai6_CoBan.dll
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\obj\Debug\net5.0\Bai6_CoBan.pdb
+D:\SAVE CODE\c#\TH1-NguyenVuHai\Bai6_CoBan\obj\Debug\net5.0\Bai6_CoBan.genruntimeconfig.cache

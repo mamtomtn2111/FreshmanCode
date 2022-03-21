@@ -1,0 +1,16 @@
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\bin\Debug\net5.0\Bài 3 fibo.exe
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\bin\Debug\net5.0\Bài 3 fibo.deps.json
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\bin\Debug\net5.0\Bài 3 fibo.runtimeconfig.json
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\bin\Debug\net5.0\Bài 3 fibo.runtimeconfig.dev.json
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\bin\Debug\net5.0\Bài 3 fibo.dll
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\bin\Debug\net5.0\ref\Bài 3 fibo.dll
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\bin\Debug\net5.0\Bài 3 fibo.pdb
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\obj\Debug\net5.0\Bài 3 fibo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\obj\Debug\net5.0\Bài 3 fibo.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\obj\Debug\net5.0\Bài 3 fibo.AssemblyInfo.cs
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\obj\Debug\net5.0\Bài 3 fibo.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\obj\Debug\net5.0\Bài 3 fibo.dll
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\obj\Debug\net5.0\ref\Bài 3 fibo.dll
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\obj\Debug\net5.0\Bài 3 fibo.pdb
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\obj\Debug\net5.0\Bài 3 fibo.genruntimeconfig.cache
+D:\SAVE CODE\c#\Test1\Bài 3 fibo\obj\Debug\net5.0\Bài 3 fibo.csprojAssemblyReference.cache

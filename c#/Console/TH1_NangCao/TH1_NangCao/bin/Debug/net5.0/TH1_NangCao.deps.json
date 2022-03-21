@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TH1_NangCao/1.0.0": {
+        "runtime": {
+          "TH1_NangCao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TH1_NangCao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

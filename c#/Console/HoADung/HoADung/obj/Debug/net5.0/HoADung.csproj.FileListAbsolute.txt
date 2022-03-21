@@ -1,0 +1,16 @@
+D:\SAVE CODE\c#\Console\HoADung\HoADung\bin\Debug\net5.0\HoADung.exe
+D:\SAVE CODE\c#\Console\HoADung\HoADung\bin\Debug\net5.0\HoADung.deps.json
+D:\SAVE CODE\c#\Console\HoADung\HoADung\bin\Debug\net5.0\HoADung.runtimeconfig.json
+D:\SAVE CODE\c#\Console\HoADung\HoADung\bin\Debug\net5.0\HoADung.runtimeconfig.dev.json
+D:\SAVE CODE\c#\Console\HoADung\HoADung\bin\Debug\net5.0\HoADung.dll
+D:\SAVE CODE\c#\Console\HoADung\HoADung\bin\Debug\net5.0\ref\HoADung.dll
+D:\SAVE CODE\c#\Console\HoADung\HoADung\bin\Debug\net5.0\HoADung.pdb
+D:\SAVE CODE\c#\Console\HoADung\HoADung\obj\Debug\net5.0\HoADung.csproj.AssemblyReference.cache
+D:\SAVE CODE\c#\Console\HoADung\HoADung\obj\Debug\net5.0\HoADung.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\Console\HoADung\HoADung\obj\Debug\net5.0\HoADung.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\Console\HoADung\HoADung\obj\Debug\net5.0\HoADung.AssemblyInfo.cs
+D:\SAVE CODE\c#\Console\HoADung\HoADung\obj\Debug\net5.0\HoADung.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\Console\HoADung\HoADung\obj\Debug\net5.0\HoADung.dll
+D:\SAVE CODE\c#\Console\HoADung\HoADung\obj\Debug\net5.0\ref\HoADung.dll
+D:\SAVE CODE\c#\Console\HoADung\HoADung\obj\Debug\net5.0\HoADung.pdb
+D:\SAVE CODE\c#\Console\HoADung\HoADung\obj\Debug\net5.0\HoADung.genruntimeconfig.cache

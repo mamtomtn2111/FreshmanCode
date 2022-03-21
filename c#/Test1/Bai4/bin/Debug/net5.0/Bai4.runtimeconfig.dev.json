@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mamto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mamto\\.nuget\\packages",
+      "D:\\Microsoft Visual Studio\\TOol and SDKs, components\\NuGetPackages"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\bin\Debug\net5.0\Bai2_PTBAC2.exe
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\bin\Debug\net5.0\Bai2_PTBAC2.deps.json
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\bin\Debug\net5.0\Bai2_PTBAC2.runtimeconfig.json
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\bin\Debug\net5.0\Bai2_PTBAC2.runtimeconfig.dev.json
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\bin\Debug\net5.0\Bai2_PTBAC2.dll
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\bin\Debug\net5.0\ref\Bai2_PTBAC2.dll
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\bin\Debug\net5.0\Bai2_PTBAC2.pdb
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\obj\Debug\net5.0\Bai2_PTBAC2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\obj\Debug\net5.0\Bai2_PTBAC2.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\obj\Debug\net5.0\Bai2_PTBAC2.AssemblyInfo.cs
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\obj\Debug\net5.0\Bai2_PTBAC2.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\obj\Debug\net5.0\Bai2_PTBAC2.dll
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\obj\Debug\net5.0\ref\Bai2_PTBAC2.dll
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\obj\Debug\net5.0\Bai2_PTBAC2.pdb
+D:\SAVE CODE\c#\Test1\Bai2_PTBAC2\obj\Debug\net5.0\Bai2_PTBAC2.genruntimeconfig.cache

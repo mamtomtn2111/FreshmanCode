@@ -1,0 +1,3 @@
+=====Xau ban vua nhap la:=====
+nguyen vu    hai
+=====So tu trong xau la: 3

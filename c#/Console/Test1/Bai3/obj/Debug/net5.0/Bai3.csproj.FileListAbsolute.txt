@@ -1,0 +1,16 @@
+D:\SAVE CODE\c#\Test1\Bai3\bin\Debug\net5.0\Bai3.exe
+D:\SAVE CODE\c#\Test1\Bai3\bin\Debug\net5.0\Bai3.deps.json
+D:\SAVE CODE\c#\Test1\Bai3\bin\Debug\net5.0\Bai3.runtimeconfig.json
+D:\SAVE CODE\c#\Test1\Bai3\bin\Debug\net5.0\Bai3.runtimeconfig.dev.json
+D:\SAVE CODE\c#\Test1\Bai3\bin\Debug\net5.0\Bai3.dll
+D:\SAVE CODE\c#\Test1\Bai3\bin\Debug\net5.0\ref\Bai3.dll
+D:\SAVE CODE\c#\Test1\Bai3\bin\Debug\net5.0\Bai3.pdb
+D:\SAVE CODE\c#\Test1\Bai3\obj\Debug\net5.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\Test1\Bai3\obj\Debug\net5.0\Bai3.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\Test1\Bai3\obj\Debug\net5.0\Bai3.AssemblyInfo.cs
+D:\SAVE CODE\c#\Test1\Bai3\obj\Debug\net5.0\Bai3.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\Test1\Bai3\obj\Debug\net5.0\Bai3.dll
+D:\SAVE CODE\c#\Test1\Bai3\obj\Debug\net5.0\ref\Bai3.dll
+D:\SAVE CODE\c#\Test1\Bai3\obj\Debug\net5.0\Bai3.pdb
+D:\SAVE CODE\c#\Test1\Bai3\obj\Debug\net5.0\Bai3.genruntimeconfig.cache
+D:\SAVE CODE\c#\Test1\Bai3\obj\Debug\net5.0\Bai3.csprojAssemblyReference.cache

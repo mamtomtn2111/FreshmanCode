@@ -1,0 +1,16 @@
+D:\SAVE CODE\c#\TestFile\TestFile\bin\Debug\net5.0\TestFile.exe
+D:\SAVE CODE\c#\TestFile\TestFile\bin\Debug\net5.0\TestFile.deps.json
+D:\SAVE CODE\c#\TestFile\TestFile\bin\Debug\net5.0\TestFile.runtimeconfig.json
+D:\SAVE CODE\c#\TestFile\TestFile\bin\Debug\net5.0\TestFile.runtimeconfig.dev.json
+D:\SAVE CODE\c#\TestFile\TestFile\bin\Debug\net5.0\TestFile.dll
+D:\SAVE CODE\c#\TestFile\TestFile\bin\Debug\net5.0\ref\TestFile.dll
+D:\SAVE CODE\c#\TestFile\TestFile\bin\Debug\net5.0\TestFile.pdb
+D:\SAVE CODE\c#\TestFile\TestFile\obj\Debug\net5.0\TestFile.csprojAssemblyReference.cache
+D:\SAVE CODE\c#\TestFile\TestFile\obj\Debug\net5.0\TestFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\TestFile\TestFile\obj\Debug\net5.0\TestFile.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\TestFile\TestFile\obj\Debug\net5.0\TestFile.AssemblyInfo.cs
+D:\SAVE CODE\c#\TestFile\TestFile\obj\Debug\net5.0\TestFile.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\TestFile\TestFile\obj\Debug\net5.0\TestFile.dll
+D:\SAVE CODE\c#\TestFile\TestFile\obj\Debug\net5.0\ref\TestFile.dll
+D:\SAVE CODE\c#\TestFile\TestFile\obj\Debug\net5.0\TestFile.pdb
+D:\SAVE CODE\c#\TestFile\TestFile\obj\Debug\net5.0\TestFile.genruntimeconfig.cache

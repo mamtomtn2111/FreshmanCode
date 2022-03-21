@@ -1,0 +1,17 @@
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.WindowsDesktop.App",
+      "version": "5.0.0"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\mamto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mamto\\.nuget\\packages",
+      "D:\\Microsoft Visual Studio\\TOol and SDKs, components\\NuGetPackages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}

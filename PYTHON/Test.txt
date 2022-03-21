@@ -1,0 +1,6 @@
+Xuất phần tử
+Phần tử thứ 0: 1
+Phần tử thứ 1: 2
+Phần tử thứ 2: 3
+Phần tử bạn vừa tìm kiếm là: 
+Phần tử thứ 2: 3

@@ -1,0 +1,13 @@
+		Hang ton kho nhieu nhat la: 
+	Hang thu 1
+Ma hang: 1
+
+Ten mat hang: 1
+
+So luong mat hang: 1
+
+Nhap vao don gia: 1
+
+Nhap vao so luong ton kho: 1
+
+THoi gian bao hanh (tinh theo don vi thang): 2

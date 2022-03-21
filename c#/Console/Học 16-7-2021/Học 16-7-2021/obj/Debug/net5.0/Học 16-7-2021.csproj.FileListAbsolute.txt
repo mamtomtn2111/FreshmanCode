@@ -1,0 +1,16 @@
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\bin\Debug\net5.0\Học 16-7-2021.exe
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\bin\Debug\net5.0\Học 16-7-2021.deps.json
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\bin\Debug\net5.0\Học 16-7-2021.runtimeconfig.json
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\bin\Debug\net5.0\Học 16-7-2021.runtimeconfig.dev.json
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\bin\Debug\net5.0\Học 16-7-2021.dll
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\bin\Debug\net5.0\ref\Học 16-7-2021.dll
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\bin\Debug\net5.0\Học 16-7-2021.pdb
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\obj\Debug\net5.0\Học 16-7-2021.csprojAssemblyReference.cache
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\obj\Debug\net5.0\Học 16-7-2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\obj\Debug\net5.0\Học 16-7-2021.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\obj\Debug\net5.0\Học 16-7-2021.AssemblyInfo.cs
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\obj\Debug\net5.0\Học 16-7-2021.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\obj\Debug\net5.0\Học 16-7-2021.dll
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\obj\Debug\net5.0\ref\Học 16-7-2021.dll
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\obj\Debug\net5.0\Học 16-7-2021.pdb
+D:\SAVE CODE\c#\Học 16-7-2021\Học 16-7-2021\obj\Debug\net5.0\Học 16-7-2021.genruntimeconfig.cache

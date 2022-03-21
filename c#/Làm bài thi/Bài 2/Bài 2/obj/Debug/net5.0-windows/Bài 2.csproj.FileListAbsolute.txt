@@ -1,0 +1,24 @@
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\Bài 2.exe
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\Bài 2.deps.json
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\Bài 2.runtimeconfig.json
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\Bài 2.runtimeconfig.dev.json
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\Bài 2.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\ref\Bài 2.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\Bài 2.pdb
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\obj\Debug\net5.0-windows\Bài 2.csproj.AssemblyReference.cache
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\obj\Debug\net5.0-windows\Bài_2.Form1.resources
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\obj\Debug\net5.0-windows\Bài 2.csproj.GenerateResource.cache
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\obj\Debug\net5.0-windows\Bài 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\obj\Debug\net5.0-windows\Bài 2.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\obj\Debug\net5.0-windows\Bài 2.AssemblyInfo.cs
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\obj\Debug\net5.0-windows\Bài 2.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\obj\Debug\net5.0-windows\Bài 2.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\obj\Debug\net5.0-windows\ref\Bài 2.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\obj\Debug\net5.0-windows\Bài 2.pdb
+D:\SAVE CODE\c#\Làm bài thi\Bài 2\Bài 2\obj\Debug\net5.0-windows\Bài 2.genruntimeconfig.cache

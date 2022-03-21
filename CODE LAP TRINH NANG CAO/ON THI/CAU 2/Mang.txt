@@ -1,0 +1,8 @@
+Mang vua nhap la: 
+a[0]:2
+a[1]:2
+a[2]:2
+Phan tu 2 nam o cac vi tri sau: 
+a[0]
+a[1]
+a[2]

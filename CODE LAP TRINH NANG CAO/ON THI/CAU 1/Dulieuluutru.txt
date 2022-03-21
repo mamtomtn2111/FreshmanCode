@@ -1,0 +1,3 @@
+|Ma sinh vien                  |         Ho ten|       Nam sinh|       Que quan|
+|1                             |              1|              1|              1|
+|2                             |              2|              2|              2|

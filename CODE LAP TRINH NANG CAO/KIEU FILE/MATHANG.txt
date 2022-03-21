@@ -1,0 +1,4 @@
+=====Du lieu ban vua nhap lieu la:======
+|Ten Ma Hang                   |   Ten Mat Hang|So Luong Mat Hang|    Don vi Tinh|        Don gia|
+|2                             |              2|              2|              2|              2|
+|2                             |              2|              2|              2|              2|

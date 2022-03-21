@@ -1,0 +1,15 @@
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\obj\Debug\net5.0\TH1-CoBan-NguyenVuHai.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\obj\Debug\net5.0\TH1-CoBan-NguyenVuHai.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\obj\Debug\net5.0\TH1-CoBan-NguyenVuHai.AssemblyInfo.cs
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\obj\Debug\net5.0\TH1-CoBan-NguyenVuHai.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\bin\Debug\net5.0\TH1-CoBan-NguyenVuHai.exe
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\bin\Debug\net5.0\TH1-CoBan-NguyenVuHai.deps.json
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\bin\Debug\net5.0\TH1-CoBan-NguyenVuHai.runtimeconfig.json
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\bin\Debug\net5.0\TH1-CoBan-NguyenVuHai.runtimeconfig.dev.json
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\bin\Debug\net5.0\TH1-CoBan-NguyenVuHai.dll
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\bin\Debug\net5.0\ref\TH1-CoBan-NguyenVuHai.dll
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\bin\Debug\net5.0\TH1-CoBan-NguyenVuHai.pdb
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\obj\Debug\net5.0\TH1-CoBan-NguyenVuHai.dll
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\obj\Debug\net5.0\ref\TH1-CoBan-NguyenVuHai.dll
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\obj\Debug\net5.0\TH1-CoBan-NguyenVuHai.pdb
+D:\SAVE CODE\c#\TH1-NguyenVuHai\TH1-CoBan-NguyenVuHai\obj\Debug\net5.0\TH1-CoBan-NguyenVuHai.genruntimeconfig.cache

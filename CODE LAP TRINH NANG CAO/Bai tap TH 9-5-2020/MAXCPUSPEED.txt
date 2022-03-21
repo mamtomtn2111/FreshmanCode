@@ -1,0 +1,5 @@
+=====Du lieu ban vua nhap la: =======
+|Ten May                       |     Ten Ma May|     Toc do CPU| Dung luong RAM|        Don gia|
+|42                            |             23|          42.00|             42|           3424|
+|123                           |              1|          23.00|             24|            234|
+|1                             |              1|           1.00|              1|              1|

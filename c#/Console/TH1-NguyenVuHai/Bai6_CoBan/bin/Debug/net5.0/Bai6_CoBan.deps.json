@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bai6_CoBan/1.0.0": {
+        "runtime": {
+          "Bai6_CoBan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai6_CoBan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

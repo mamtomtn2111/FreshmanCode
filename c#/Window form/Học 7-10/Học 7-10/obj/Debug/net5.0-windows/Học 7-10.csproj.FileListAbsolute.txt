@@ -1,0 +1,18 @@
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\bin\Debug\net5.0-windows\Học 7-10.exe
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\bin\Debug\net5.0-windows\Học 7-10.deps.json
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\bin\Debug\net5.0-windows\Học 7-10.runtimeconfig.json
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\bin\Debug\net5.0-windows\Học 7-10.runtimeconfig.dev.json
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\bin\Debug\net5.0-windows\Học 7-10.dll
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\bin\Debug\net5.0-windows\ref\Học 7-10.dll
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\bin\Debug\net5.0-windows\Học 7-10.pdb
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\obj\Debug\net5.0-windows\Học 7-10.csprojAssemblyReference.cache
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\obj\Debug\net5.0-windows\Học_7_10.Form1.resources
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\obj\Debug\net5.0-windows\Học 7-10.csproj.GenerateResource.cache
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\obj\Debug\net5.0-windows\Học 7-10.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\obj\Debug\net5.0-windows\Học 7-10.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\obj\Debug\net5.0-windows\Học 7-10.AssemblyInfo.cs
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\obj\Debug\net5.0-windows\Học 7-10.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\obj\Debug\net5.0-windows\Học 7-10.dll
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\obj\Debug\net5.0-windows\ref\Học 7-10.dll
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\obj\Debug\net5.0-windows\Học 7-10.pdb
+D:\SAVE CODE\c#\Window form\Học 7-10\Học 7-10\obj\Debug\net5.0-windows\Học 7-10.genruntimeconfig.cache

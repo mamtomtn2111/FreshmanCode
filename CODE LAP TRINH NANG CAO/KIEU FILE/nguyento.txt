@@ -1,0 +1,3 @@
+====Cac phan tu nguyen to co trong mang la====
+a[1]=3
+a[2]=2

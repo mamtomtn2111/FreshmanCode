@@ -1,0 +1,16 @@
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\obj\Debug\net5.0\Bài 1.csproj.AssemblyReference.cache
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\obj\Debug\net5.0\Bài 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\obj\Debug\net5.0\Bài 1.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\obj\Debug\net5.0\Bài 1.AssemblyInfo.cs
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\obj\Debug\net5.0\Bài 1.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\bin\Debug\net5.0\Bài 1.exe
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\bin\Debug\net5.0\Bài 1.deps.json
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\bin\Debug\net5.0\Bài 1.runtimeconfig.json
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\bin\Debug\net5.0\Bài 1.runtimeconfig.dev.json
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\bin\Debug\net5.0\Bài 1.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\bin\Debug\net5.0\ref\Bài 1.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\bin\Debug\net5.0\Bài 1.pdb
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\obj\Debug\net5.0\Bài 1.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\obj\Debug\net5.0\ref\Bài 1.dll
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\obj\Debug\net5.0\Bài 1.pdb
+D:\SAVE CODE\c#\Làm bài thi\Bài 1\Bài 1\obj\Debug\net5.0\Bài 1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SAVE CODE\c#\KT1\KT1\bin\Debug\net5.0\KT1.exe
+D:\SAVE CODE\c#\KT1\KT1\bin\Debug\net5.0\KT1.deps.json
+D:\SAVE CODE\c#\KT1\KT1\bin\Debug\net5.0\KT1.runtimeconfig.json
+D:\SAVE CODE\c#\KT1\KT1\bin\Debug\net5.0\KT1.runtimeconfig.dev.json
+D:\SAVE CODE\c#\KT1\KT1\bin\Debug\net5.0\KT1.dll
+D:\SAVE CODE\c#\KT1\KT1\bin\Debug\net5.0\ref\KT1.dll
+D:\SAVE CODE\c#\KT1\KT1\bin\Debug\net5.0\KT1.pdb
+D:\SAVE CODE\c#\KT1\KT1\obj\Debug\net5.0\KT1.csprojAssemblyReference.cache
+D:\SAVE CODE\c#\KT1\KT1\obj\Debug\net5.0\KT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\KT1\KT1\obj\Debug\net5.0\KT1.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\KT1\KT1\obj\Debug\net5.0\KT1.AssemblyInfo.cs
+D:\SAVE CODE\c#\KT1\KT1\obj\Debug\net5.0\KT1.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\KT1\KT1\obj\Debug\net5.0\KT1.dll
+D:\SAVE CODE\c#\KT1\KT1\obj\Debug\net5.0\ref\KT1.dll
+D:\SAVE CODE\c#\KT1\KT1\obj\Debug\net5.0\KT1.pdb
+D:\SAVE CODE\c#\KT1\KT1\obj\Debug\net5.0\KT1.genruntimeconfig.cache

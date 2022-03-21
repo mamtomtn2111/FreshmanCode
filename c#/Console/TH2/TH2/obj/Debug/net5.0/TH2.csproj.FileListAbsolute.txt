@@ -1,0 +1,16 @@
+D:\SAVE CODE\c#\TH2\TH2\bin\Debug\net5.0\TH2.exe
+D:\SAVE CODE\c#\TH2\TH2\bin\Debug\net5.0\TH2.deps.json
+D:\SAVE CODE\c#\TH2\TH2\bin\Debug\net5.0\TH2.runtimeconfig.json
+D:\SAVE CODE\c#\TH2\TH2\bin\Debug\net5.0\TH2.runtimeconfig.dev.json
+D:\SAVE CODE\c#\TH2\TH2\bin\Debug\net5.0\TH2.dll
+D:\SAVE CODE\c#\TH2\TH2\bin\Debug\net5.0\ref\TH2.dll
+D:\SAVE CODE\c#\TH2\TH2\bin\Debug\net5.0\TH2.pdb
+D:\SAVE CODE\c#\TH2\TH2\obj\Debug\net5.0\TH2.csprojAssemblyReference.cache
+D:\SAVE CODE\c#\TH2\TH2\obj\Debug\net5.0\TH2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVE CODE\c#\TH2\TH2\obj\Debug\net5.0\TH2.AssemblyInfoInputs.cache
+D:\SAVE CODE\c#\TH2\TH2\obj\Debug\net5.0\TH2.AssemblyInfo.cs
+D:\SAVE CODE\c#\TH2\TH2\obj\Debug\net5.0\TH2.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\TH2\TH2\obj\Debug\net5.0\TH2.dll
+D:\SAVE CODE\c#\TH2\TH2\obj\Debug\net5.0\ref\TH2.dll
+D:\SAVE CODE\c#\TH2\TH2\obj\Debug\net5.0\TH2.pdb
+D:\SAVE CODE\c#\TH2\TH2\obj\Debug\net5.0\TH2.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+=====Dien Vien Nam ban tim la:=====
+
+-----Thong tin phim thu 2-----
+
+Ten phim: hai
+
+The Loai phim
++)The Loai phim: hai
+
+Ten Dao dien: hao
+
+Ten dien vien nam chinh: hai
+
+Ten dien vien nu chinh: hai
+
+Nam san xuat: 0
+
+Hang san xuat: hai
